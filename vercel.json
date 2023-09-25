@@ -1,0 +1,9 @@
+{ 
+   "redirects": [ 
+     { 
+       "source": "/post/:slug*", 
+       "destination": "http://newspostp.com/:slug*", 
+       "permanent": true 
+     } 
+   ] 
+}
